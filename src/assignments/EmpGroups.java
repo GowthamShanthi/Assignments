@@ -1,5 +1,8 @@
 package assignments;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class EmpGroups extends Employees{
 
 
@@ -15,6 +18,9 @@ public class EmpGroups extends Employees{
 		EmpGroups emp = new EmpGroups();
 
 
+		
+List< String> test = new ArrayList<String>();
+
 
 		System.out.println("The first  employee detail is "+emp.empNames[0]+'\t'+emp.empIds[0]);
 		System.out.println("The Second employee detail is "+emp.empNames[1]+'\t'+emp.empIds[1]);
@@ -25,3 +31,5 @@ public class EmpGroups extends Employees{
 	}
 
 }
+
+
