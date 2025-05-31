@@ -37,6 +37,8 @@ public class Assignment6_Datatrypes_Arrays_Operators {
 		System.out.println("Naresh: \t"+ 	increasedvalue[2] );
 
 
+		//Average Marks - By dividing the sum by , total length of the array 
+
 
 		System.out.println("Average Marks :\t"+ sumofmarks/increasedvalue.length );
 
