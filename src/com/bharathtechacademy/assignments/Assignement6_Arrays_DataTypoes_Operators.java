@@ -1,6 +1,6 @@
 package com.bharathtechacademy.assignments;
 
-public class Assignement5_Arrays_DataTypoes_Operators {
+public class Assignement6_Arrays_DataTypoes_Operators {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
