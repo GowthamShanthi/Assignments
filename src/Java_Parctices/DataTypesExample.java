@@ -19,8 +19,8 @@ public class DataTypesExample {
 
 		short sh = 250;
 
-		byte testw;
-		System.out.println(testw);
+	 
+	 
 		
 		
 		System.out.println(sh);
