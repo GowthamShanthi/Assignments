@@ -99,6 +99,14 @@ public class ConditionalStatementsExample {
 }
 	
 	
+	String javaversion = System.getProperty("java.version");
+			
+			String javaruntimeversion = System.getProperty("java.runtime.version");
+			
+			System.out.println("The java version is "+javaversion);
+			
+			System.out.println("The JRE versio is "+javaruntimeversion);
+	
 	
 	
 	
