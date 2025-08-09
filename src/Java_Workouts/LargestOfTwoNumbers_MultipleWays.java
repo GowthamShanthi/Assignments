@@ -1,4 +1,4 @@
-package Java_Workouts;
+package java_Workouts;
 
 public class LargestOfTwoNumbers_MultipleWays {
 	

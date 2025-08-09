@@ -1,4 +1,4 @@
-package Java_Parctices;
+package java_Parctices;
 
 import java.util.Scanner;
 

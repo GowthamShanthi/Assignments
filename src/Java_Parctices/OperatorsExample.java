@@ -1,4 +1,4 @@
-package Java_Parctices;
+package java_Parctices;
 
 public class OperatorsExample {
 
