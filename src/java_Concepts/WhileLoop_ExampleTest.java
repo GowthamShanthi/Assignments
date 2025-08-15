@@ -1,4 +1,4 @@
-package java_Parctices;
+package java_Concepts;
 
 public class WhileLoop_ExampleTest {
 
