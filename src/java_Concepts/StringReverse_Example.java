@@ -61,7 +61,7 @@ StringBuffer buff = new StringBuffer(s4);
 System.out.println("The reverse string value is"+ buff.reverse());
 
 //Using string builder
-
+ 
 
 String s5= "Test sir";
 
